@@ -1,0 +1,19 @@
+{
+  "data": {
+    "me": {
+      "id": "1",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "authProvider": "GitHub",
+      "subscription": {
+        "id": "pro",
+        "plan": "Pro",
+        "address": "Bangalore, India",
+        "card": {
+          "brand": "amex",
+          "last4": "9005"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  me {
+    id
+    name
+    email
+    authProvider
+    subscription {
+      id
+      plan
+      address
+      card {
+        brand
+        last4
+      }
+    }
+  }
+}

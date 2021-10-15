@@ -1,0 +1,249 @@
+{
+  "pageviews": [
+    {
+      "date": "2020-07-01T00:00:00.000Z",
+      "count": 4,
+      "uniqueCount": 2
+    },
+    {
+      "date": "2020-07-03T00:00:00.000Z",
+      "count": 3,
+      "uniqueCount": 1
+    },
+    {
+      "date": "2020-07-04T00:00:00.000Z",
+      "count": 8,
+      "uniqueCount": 2
+    },
+    {
+      "date": "2020-07-05T00:00:00.000Z",
+      "count": 5,
+      "uniqueCount": 1
+    },
+    {
+      "date": "2020-07-15T00:00:00.000Z",
+      "count": 10,
+      "uniqueCount": 1
+    },
+    {
+      "date": "2020-07-16T00:00:00.000Z",
+      "count": 7,
+      "uniqueCount": 5
+    },
+    {
+      "date": "2020-07-17T00:00:00.000Z",
+      "count": 9,
+      "uniqueCount": 3
+    },
+    {
+      "date": "2020-07-18T00:00:00.000Z",
+      "count": 6,
+      "uniqueCount": 4
+    },
+    {
+      "date": "2020-07-19T00:00:00.000Z",
+      "count": 3,
+      "uniqueCount": 1
+    },
+    {
+      "date": "2020-07-20T00:00:00.000Z",
+      "count": 7,
+      "uniqueCount": 2
+    },
+    {
+      "date": "2020-07-21T00:00:00.000Z",
+      "count": 294,
+      "uniqueCount": 79
+    },
+    {
+      "date": "2020-07-22T00:00:00.000Z",
+      "count": 20,
+      "uniqueCount": 6
+    },
+    {
+      "date": "2020-07-26T00:00:00.000Z",
+      "count": 134,
+      "uniqueCount": 29
+    },
+    {
+      "date": "2020-07-27T00:00:00.000Z",
+      "count": 16,
+      "uniqueCount": 3
+    },
+    {
+      "date": "2020-07-28T00:00:00.000Z",
+      "count": 331,
+      "uniqueCount": 52
+    },
+    {
+      "date": "2020-07-29T00:00:00.000Z",
+      "count": 165,
+      "uniqueCount": 29
+    },
+    {
+      "date": "2020-07-30T00:00:00.000Z",
+      "count": 406,
+      "uniqueCount": 91
+    }
+  ],
+  "summary": {
+    "count": 1428,
+    "uniqueCount": 311
+  },
+  "sources": [
+    {
+      "key": "t.co/L6oSXCHdoa",
+      "value": 36
+    },
+    {
+      "key": "t.co/",
+      "value": 18
+    },
+    {
+      "key": "t.co/mSyGquV5Jf",
+      "value": 12
+    },
+    {
+      "key": "t.co",
+      "value": 8
+    },
+    {
+      "key": "www.bing.com/search",
+      "value": 4
+    },
+    {
+      "key": "thesemetrics.org/",
+      "value": 3
+    },
+    {
+      "key": "www.google.com/",
+      "value": 3
+    },
+    {
+      "key": "t.co/PkGh8mmTCx",
+      "value": 2
+    },
+    {
+      "key": "t.co/QVoMuYQs3r",
+      "value": 2
+    },
+    {
+      "key": "thesemetrics.org",
+      "value": 1
+    }
+  ],
+  "countries": [
+    {
+      "key": "IN",
+      "value": 1028
+    },
+    {
+      "key": "NL",
+      "value": 60
+    },
+    {
+      "key": "FR",
+      "value": 18
+    },
+    {
+      "key": "US",
+      "value": 18
+    },
+    {
+      "key": "CA",
+      "value": 12
+    },
+    {
+      "key": "IT",
+      "value": 12
+    },
+    {
+      "key": "MX",
+      "value": 10
+    },
+    {
+      "key": "JP",
+      "value": 9
+    },
+    {
+      "key": "CN",
+      "value": 9
+    },
+    {
+      "key": "PL",
+      "value": 9
+    }
+  ],
+  "browsers": [
+    {
+      "key": "Firefox",
+      "value": 364
+    },
+    {
+      "key": "Chrome",
+      "value": 329
+    },
+    {
+      "key": "Mobile Safari",
+      "value": 156
+    },
+    {
+      "key": "Chrome Mobile",
+      "value": 125
+    },
+    {
+      "key": "Safari",
+      "value": 113
+    },
+    {
+      "key": "Electron",
+      "value": 45
+    },
+    {
+      "key": "HeadlessChrome",
+      "value": 8
+    },
+    {
+      "key": "Chrome Mobile iOS",
+      "value": 7
+    },
+    {
+      "key": "Firefox Mobile",
+      "value": 5
+    }
+  ],
+  "pages": [
+    {
+      "key": "/dashboard",
+      "value": 608
+    },
+    {
+      "key": "/",
+      "value": 546
+    },
+    {
+      "key": "/dashboard/thesemetrics.org",
+      "value": 69
+    },
+    {
+      "key": "/dashboardapplerxyzsite.vercel.app",
+      "value": 7
+    },
+    {
+      "key": "/dashboard/znck.dev",
+      "value": 4
+    },
+    {
+      "key": "/privacy",
+      "value": 3
+    },
+    {
+      "key": "/logo.png",
+      "value": 2
+    },
+    {
+      "key": "/dashboard/sid.st",
+      "value": 1
+    }
+  ]
+}

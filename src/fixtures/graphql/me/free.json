@@ -1,0 +1,14 @@
+{
+  "data": {
+    "me": {
+      "id": "1",
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "authProvider": "GitHub",
+      "subscription": {
+        "id": "free",
+        "plan": "free"
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "pageviews": [
+    {
+      "date": "2020-08-01T00:00:00.000Z",
+      "count": 3,
+      "uniqueCount": 2
+    }
+  ],
+  "summary": {
+    "count": 3,
+    "uniqueCount": 2,
+    "activeCount": 1
+  },
+  "sources": [],
+  "pages": [
+    {
+      "key": "/dashboard/thesemetrics.org",
+      "value": 3
+    }
+  ],
+  "countries": [
+    {
+      "key": "IN",
+      "value": 3
+    }
+  ],
+  "browsers": [
+    {
+      "key": "Firefox",
+      "value": 3
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "domain": "example.com",
+  "status": "active",
+  "ownership": "free",
+  "usage": {
+    "total": {
+      "pageviews": 4001,
+      "events": 4001
+    },
+    "project": {
+      "pageviews": 2,
+      "events": 2
+    },
+    "quota": 4000
+  },
+  "dashboard": {
+    "id": "default",
+    "name": "Default",
+    "access": "public",
+    "pages": true,
+    "segment": {
+      "kind": "30 days",
+      "live": true
+    },
+    "widgets": [
+      {
+        "name": "LiveCardPageviews"
+      },
+      {
+        "name": "CardTotalPageviews"
+      },
+      {
+        "name": "CardTotalVisitors"
+      },
+      {
+        "name": "CardAverageTimeSpent"
+      },
+      {
+        "name": "ChartPageviews"
+      },
+      {
+        "name": "ListBrowsers"
+      },
+      {
+        "name": "ListReferrers"
+      },
+      {
+        "name": "ListCountries"
+      }
+    ]
+  }
+}

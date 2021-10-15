@@ -1,0 +1,9 @@
+mutation($domain: String!, $name: String!, $framework: String!) {
+  createProject(
+    params: { domain: $domain, name: $name, framework: $framework }
+  ) {
+    id
+    name
+    domain
+  }
+}

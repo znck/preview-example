@@ -1,0 +1,6 @@
+mutation($params: InputDowngradeToStarter!) {
+  downgradeToStarter(params: $params) {
+    id
+    status
+  }
+}

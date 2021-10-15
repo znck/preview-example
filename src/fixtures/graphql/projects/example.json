@@ -1,0 +1,12 @@
+{
+  "data": {
+    "projects": [
+      {
+        "id": 1,
+        "name": "Example",
+        "domain": "example.com",
+        "framework": "html"
+      }
+    ]
+  }
+}

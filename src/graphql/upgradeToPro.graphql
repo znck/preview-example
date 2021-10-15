@@ -1,0 +1,7 @@
+mutation($params: InputUpgradeToPro!) {
+  upgradeToPro(params: $params) {
+    id
+    status
+    clientSecret
+  }
+}
